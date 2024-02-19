@@ -1,3 +1,3 @@
-#CS131 Brewin '23
+# CS131 BREWIN' 131
 
-Max score on all parts.
+Custom python-based interpreter for an instructor-defined language. Max score on all parts.
